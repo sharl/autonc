@@ -1,6 +1,6 @@
 # autonc
 
-I want to display the Notification Center when the system is idle—meaning there is no keyboard, mouse, or gamepad inpu.
+I want to display the Notification Center when the system is idle—meaning there is no keyboard, mouse, or gamepad input.
 
 However, implementing this is difficult to me.
 
